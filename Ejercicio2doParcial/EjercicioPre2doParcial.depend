@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1530214840 source:/home/alumno/pino/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530213912 /home/alumno/pino/Ejercicio2doParcial/ArrayList.h
+
+1531433738 source:/home/alumno/pino/Ejercicio2doParcial/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1531433738 /home/alumno/pino/Ejercicio2doParcial/Empleado.h
+
+1531433786 source:/home/alumno/pino/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1531430899 /home/alumno/pino/Ejercicio2doParcial/Parser.h
+	"ArrayList.h"
+
+1531433315 source:/home/alumno/pino/Ejercicio2doParcial/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
